@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "polished-fire-1dfb",
+  "name": "my-travel-site",
   "compatibility_date": "2026-07-12",
   "observability": {
     "enabled": true
